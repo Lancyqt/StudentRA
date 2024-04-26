@@ -1,0 +1,10 @@
+C:\Users\STI-STUDENT\Source\Repos\Lancyqt\StudentRegistrationApplicationnn\StudentRegistrationApplicationnn\bin\Debug\StudentRegistrationApplicationnn.exe.config
+C:\Users\STI-STUDENT\Source\Repos\Lancyqt\StudentRegistrationApplicationnn\StudentRegistrationApplicationnn\bin\Debug\StudentRegistrationApplicationnn.exe
+C:\Users\STI-STUDENT\Source\Repos\Lancyqt\StudentRegistrationApplicationnn\StudentRegistrationApplicationnn\bin\Debug\StudentRegistrationApplicationnn.pdb
+C:\Users\STI-STUDENT\Source\Repos\Lancyqt\StudentRegistrationApplicationnn\StudentRegistrationApplicationnn\obj\Debug\StudentRegistrationApplicationnn.csproj.AssemblyReference.cache
+C:\Users\STI-STUDENT\Source\Repos\Lancyqt\StudentRegistrationApplicationnn\StudentRegistrationApplicationnn\obj\Debug\StudentRegistrationApplicationnn.Form1.resources
+C:\Users\STI-STUDENT\Source\Repos\Lancyqt\StudentRegistrationApplicationnn\StudentRegistrationApplicationnn\obj\Debug\StudentRegistrationApplicationnn.Properties.Resources.resources
+C:\Users\STI-STUDENT\Source\Repos\Lancyqt\StudentRegistrationApplicationnn\StudentRegistrationApplicationnn\obj\Debug\StudentRegistrationApplicationnn.csproj.GenerateResource.cache
+C:\Users\STI-STUDENT\Source\Repos\Lancyqt\StudentRegistrationApplicationnn\StudentRegistrationApplicationnn\obj\Debug\StudentRegistrationApplicationnn.csproj.CoreCompileInputs.cache
+C:\Users\STI-STUDENT\Source\Repos\Lancyqt\StudentRegistrationApplicationnn\StudentRegistrationApplicationnn\obj\Debug\StudentRegistrationApplicationnn.exe
+C:\Users\STI-STUDENT\Source\Repos\Lancyqt\StudentRegistrationApplicationnn\StudentRegistrationApplicationnn\obj\Debug\StudentRegistrationApplicationnn.pdb
